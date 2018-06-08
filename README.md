@@ -1,4 +1,4 @@
 # Seaborn_Visualizations
-This repository contains a notebook with different visualizations using seaborn.
+This repository contain various notebooks with different visualizations using seaborn library in Python.
 
-The Tips dataset included in Seaborn has been used for creating graphs.
+The tips, flights and iris datasets included in Seaborn have been used for creating graphs.
